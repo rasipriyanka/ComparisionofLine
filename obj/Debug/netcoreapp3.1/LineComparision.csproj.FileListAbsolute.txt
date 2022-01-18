@@ -1,0 +1,14 @@
+D:\git\LineComparision\bin\Debug\netcoreapp3.1\LineComparision.exe
+D:\git\LineComparision\bin\Debug\netcoreapp3.1\LineComparision.deps.json
+D:\git\LineComparision\bin\Debug\netcoreapp3.1\LineComparision.runtimeconfig.json
+D:\git\LineComparision\bin\Debug\netcoreapp3.1\LineComparision.runtimeconfig.dev.json
+D:\git\LineComparision\bin\Debug\netcoreapp3.1\LineComparision.dll
+D:\git\LineComparision\bin\Debug\netcoreapp3.1\LineComparision.pdb
+D:\git\LineComparision\obj\Debug\netcoreapp3.1\LineComparision.csproj.AssemblyReference.cache
+D:\git\LineComparision\obj\Debug\netcoreapp3.1\LineComparision.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\LineComparision\obj\Debug\netcoreapp3.1\LineComparision.AssemblyInfoInputs.cache
+D:\git\LineComparision\obj\Debug\netcoreapp3.1\LineComparision.AssemblyInfo.cs
+D:\git\LineComparision\obj\Debug\netcoreapp3.1\LineComparision.csproj.CoreCompileInputs.cache
+D:\git\LineComparision\obj\Debug\netcoreapp3.1\LineComparision.dll
+D:\git\LineComparision\obj\Debug\netcoreapp3.1\LineComparision.pdb
+D:\git\LineComparision\obj\Debug\netcoreapp3.1\LineComparision.genruntimeconfig.cache
